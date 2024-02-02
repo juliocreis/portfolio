@@ -1,0 +1,43 @@
+<!DOCTYPE html> <!--Instrui o navegador sobre a versão do HTML que está sendo usada-->
+<html lang="pt-br"> <!--Lingugem do documento-->
+<head> <!--Tag usada para incluir informações sobre o documento que não são exibidas na página-->
+    <meta charset="UTF-8"> <!--Sistema padrão de codificação de caracteres-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--Serve para ajustar o tamanho da tela-->
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="./styles/style.css"> <!--rel = relação com outro arquivo, stylesheet significa folha de estilo-->
+</head>
+<body>
+    <header class="cabecalho">
+        <nav class="cabecalho__menu">
+            <a class="cabecalho__menu__link" href="index.html">Home</a>
+            <a class="cabecalho__menu__link" href="about.html">Sobre mim</a>
+            <a class="cabecalho__menu__link" href="curriculo.html">Curriculo</a>
+        </nav>
+    </header>
+    <main class="apresentacao">
+        <section class="apresentacao__conteudo">
+            <h1 class="apresentacao__conteudo__titulo">Frontend Developer</h1> <!--class = classe é um identificador usado para associar estilos-->
+            <p class="apresentacao__conteudo__texto">Olá! Sou Júlio Reis, estudante de Ciência da Computação no Instituto Federal do Maranhão - IFMA. Estou aprendendo <strong class="destaque__texto">HTML e CSS</strong> e este é o meu primeiro projeto.</p>
+            <div class="apresentacao__links">
+                <h2 class="apresentacao__links__subtitulo">Acesse minhas redes:</h2>
+                <a class="apresentacao__links__navegacao" href="https://github.com/juliocreis">
+                    <img src="./assets/github.png">
+                    Github
+                </a>
+                <a class="apresentacao__links__navegacao" href="https://instagram.com/juliocc_reis">
+                    <img src="./assets/instagram.png">
+                    Instagram
+                </a>
+                <a class="apresentacao__links__navegacao" href="https://linkedin.com/in/julio-reis-b1905a290">
+                    <img src="./assets/linkedin.png">
+                    Linkedin
+                </a>
+            </div>    
+        </section>
+            <img class="apresentacao__imagem" src="./assets/eu.png" alt="Foto do Julio Reis">
+    </main>
+    <footer class="rodape">
+        <p>Desenvolvido por Júlio Reis</p>
+    </footer>
+</body>
+</html>
