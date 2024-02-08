@@ -8,8 +8,8 @@ Olá, bem vindo ao meu projeto de portfólio
 
 * Flex-box
 
-## Feito por:
+## Feito por: Júlio Reis
 
-### Júlio Reis
+<img src="https://portfolio-rho-ruddy-31.vercel.app/">
 
 ### Linkedin: https://linkedin.com/in/julio-reis-b1905a290
