@@ -8,7 +8,9 @@ Olá, bem vindo ao meu projeto de portfólio
 
 * Flex-box
 
-<a href="https://portfolio-rho-ruddy-31.vercel.app/">
+<a href="https://portfolio-rho-ruddy-31.vercel.app/index.html">
+<a href="https://portfolio-rho-ruddy-31.vercel.app/about.html">
+<a href="https://portfolio-rho-ruddy-31.vercel.app/curriculo.html">
 
 ## Feito por: Júlio Reis
 
